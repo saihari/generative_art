@@ -7,4 +7,4 @@
 
 ## Rendered Image
 
-![10Print!](/photo.png)
+![10Print!](photo.png)
